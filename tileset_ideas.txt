@@ -1,0 +1,7 @@
+walkable				unwalkable
+
+green grass				brown trees (animated leafes on trees?)
+purple dry desert		white ice spikes/crystals (animated reflection/shining?)
+light brown sand		reddish brown rocks/crystals (animated sand breaking off?)
+gray paving stone		dark green pillars (animated rotation?)
+black lava rocks		red lava (animated?)

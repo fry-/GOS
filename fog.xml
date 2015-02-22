@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resource_file type="TileSet" subresource_count="2" version="1.0" version_name="Godot Engine v1.0.stable.custom_build">
+	<ext_resource path="res://Visible.png" type="Texture"></ext_resource>
+	<main_resource>
+		<string name="0/name"> "Sprite" </string>
+		<resource name="0/texture" resource_type="Texture" path="res://Visible.png">  </resource>
+		<vector2 name="0/tex_offset"> -48, -48 </vector2>
+		<vector2 name="0/shape_offset"> 0, 0 </vector2>
+		<rect2 name="0/region"> 0, 0, 0, 0 </rect2>
+		<array name="0/shapes" len="0" shared="false">
+		</array>
+
+	</main_resource>
+</resource_file>
