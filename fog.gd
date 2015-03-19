@@ -13,7 +13,7 @@ var x = 0
 var y = 0
 var x_old
 var y_old
-var l = range(2,5)
+var l = range(1,4)
 
 func _fixed_process(delta):
 	position = get_node("../troll").get_pos()
