@@ -8,7 +8,7 @@ extends KinematicBody2D
 # as long as it starts from a non-colliding spot too.
 
 
-#pixels / second
+# pixels / second
 const MOTION_SPEED=300
 const step = 1
 var new_anim = ""

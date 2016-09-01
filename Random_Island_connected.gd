@@ -147,7 +147,6 @@ func _ready():
 
 			m = map_tile_select.keys()[pos].x
 			n = map_tile_select.keys()[pos].y
-			
 			if (map_tile_select[Vector2(m,n)][0] == 0) or \
 			(map_tile_select[Vector2(m,n)][1] == 0):
 				if map_tile_select[Vector2(m,n)][0] == 0:
